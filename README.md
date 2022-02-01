@@ -1,5 +1,7 @@
 # Day Planner
 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Day Planner Details For the Forgetful Busy Body
 In this Day Planner you will be met with ease in storing all your ToDo's or appointments. With color coding time of day (past, present and future) Itll be easier to spot exactly whats on your planner! Future appointment at 5? Look for the row color coded with green! Was your show earlier that day? Look at the grey rows that indicate the past time! And Current time will be met with red!
 
